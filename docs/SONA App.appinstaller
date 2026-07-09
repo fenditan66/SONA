@@ -6,7 +6,7 @@
         Name="FENDITAN.SONAAPP"
         Version="1.0.21.0"
         Publisher="CN=FENDITAN"
-        Uri="https://fenditan66.github.io/SONA/SONA App_1.0.21.0_x64.msixbundle" />
+        Uri="https://fenditan66.github.io/SONA/SONA%20App_1.0.21.0_Test/SONA%20App_1.0.21.0_x64.msixbundle" />
     <Dependencies>
         <Package
             Name="Microsoft.VCLibs.140.00"
