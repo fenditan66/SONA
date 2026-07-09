@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AppInstaller
+	Uri="https://fenditan66.github.io/SONA/SONA App.appinstaller"
+	Version="1.0.18.0" xmlns="http://schemas.microsoft.com/appx/appinstaller/2017/2">
+	<MainBundle
+		Name="7ffb86b6-aab3-4367-a9d4-2e144f9b3a5a"
+		Version="1.0.18.0"
+		Publisher="CN=FENDI"
+		Uri="https://fenditan66.github.io/SONA/SONA App_1.0.18.0_Test/SONA App_1.0.18.0_x64.msixbundle" />
+	<Dependencies>
+		<Package
+			Name="Microsoft.VCLibs.140.00"
+			Publisher="CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US"
+			ProcessorArchitecture="x64"
+			Uri="https://fenditan66.github.io/SONA/SONA App_1.0.18.0_Test/Dependencies/x64/Microsoft.VCLibs.x64.14.00.appx"
+			Version="14.0.33519.0" />
+		<Package
+			Name="Microsoft.WindowsAppRuntime.2"
+			Publisher="CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US"
+			ProcessorArchitecture="x64"
+			Uri="https://fenditan66.github.io/SONA/SONA App_1.0.18.0_Test/Dependencies/x64/Microsoft.WindowsAppRuntime.2.msix"
+			Version="2.2.0.0" />
+		<Package
+			Name="Microsoft.VCLibs.140.00.UWPDesktop"
+			Publisher="CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US"
+			ProcessorArchitecture="x64"
+			Uri="https://fenditan66.github.io/SONA/SONA App_1.0.18.0_Test/Dependencies/x64/Microsoft.VCLibs.x64.14.00.Desktop.appx"
+			Version="14.0.33728.0" />
+	</Dependencies>
+	<UpdateSettings>
+		<OnLaunch
+			HoursBetweenUpdateChecks="0" />
+	</UpdateSettings>
+</AppInstaller>
