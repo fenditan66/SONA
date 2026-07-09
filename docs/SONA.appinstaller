@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <AppInstaller
 	Uri="https://fenditan66.github.io/SONA/SONA.appinstaller"
 	Version="1.0.24.0" xmlns="http://schemas.microsoft.com/appx/appinstaller/2017/2">
@@ -6,7 +6,7 @@
 		Name="FENDITAN.SONAAPP"
 		Version="1.0.24.0"
 		Publisher="CN=FENDI"
-		Uri="https://fenditan66.github.io/SONA/SONA_1.0.24.0_Test/SONA_1.0.24.0_x64.msixbundle" />
+		Uri="https://github.com/fenditan66/SONA/releases/download/v1.0.24.0/SONA_1.0.24.0_x64.msixbundle" />
 	<Dependencies>
 		<Package
 			Name="Microsoft.VCLibs.140.00"
