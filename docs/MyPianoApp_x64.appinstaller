@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <AppInstaller
 	Uri="https://fenditan66.github.io/SONA/MyPianoApp_x64.appinstaller"
-	Version="1.0.59.0" xmlns="http://schemas.microsoft.com/appx/appinstaller/2017/2">
+	Version="1.0.61.0" xmlns="http://schemas.microsoft.com/appx/appinstaller/2017/2">
 	<MainPackage
 		Name="7ffb86b6-aab3-4367-a9d4-2e144f9b3a5a"
-		Version="1.0.59.0"
+		Version="1.0.61.0"
 		Publisher="CN=FENDI"
-		Uri="https://fenditan66.github.io/SONA/MyPianoApp_1.0.59.0_x64_Test/MyPianoApp_1.0.59.0_x64.msix"
+		Uri="https://fenditan66.github.io/SONA/MyPianoApp_1.0.61.0_x64_Test/MyPianoApp_1.0.61.0_x64.msix"
 		ProcessorArchitecture="x64" />
 	<UpdateSettings>
 		<OnLaunch
